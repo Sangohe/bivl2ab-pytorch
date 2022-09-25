@@ -6,5 +6,5 @@ This repository contains the material for the PyTorch course develop by the BIVL
 
 | Presenter         | Date          | Slides             |
 | ----------------- | -------------:| --------------:    |
-| Santiago Gómez    | 12-09-2022    | (Introduction and Pytorch transforms)[https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/01-Pytorch_Introduction_and_transforms_module.pdf]|
-| Alejandra Moreno  | 12-09-2022    | (Custom Metrics)[https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/02-Custom_metrics.pdf]             |
+| Santiago Gómez    | 12-09-2022    | [Introduction and Pytorch transforms](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/01-Pytorch_Introduction_and_transforms_module.pdf)|
+| Alejandra Moreno  | 12-09-2022    | [Custom Metrics](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/02-Custom_metrics.pdf)            |
