@@ -9,3 +9,5 @@ This repository contains the material for the PyTorch course develop by the BIVL
 | Santiago Gómez    | 12-09-2022    | [Introduction and Pytorch transforms](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/01-Pytorch_Introduction_and_transforms_module.pdf)| |
 | Alejandra Moreno  | 19-09-2022    | [Custom Metrics](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/02-Custom_metrics.pdf)  | |
 | Juan A. Olmos  | 27-09-2022    | [TensorBoard](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/03-tensorBoard.pdf)  | |
+| Franklin Sierra  | -   | - | |
+| Jonathann - Juan A. Olmos  | 1-11-2022    | Training a CNN and Early Stoppin (No slides) | [code](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/05-trainCNN-early-stopping.ipynb)    |

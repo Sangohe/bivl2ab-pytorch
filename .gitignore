@@ -1,3 +1,4 @@
 datasets/
-runs/
+runs*/
 dataset/
+.ipynb_checkpoints/*.ipynb
