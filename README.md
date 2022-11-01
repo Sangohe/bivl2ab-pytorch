@@ -2,7 +2,7 @@
 
 This repository contains the material for the PyTorch course develop by the BIVL²ab students. The content of this course is especially aimed at learning how to train neural networks on data sets that include images.
 
-# Schedu
+[# Schedulle ](https://docs.google.com/spreadsheets/d/1T20PXnackPsGt2ZMsfC17sJHsTqLHumyPPd-57NTKJU/edit#gid=1262851227/)
 
 | Presenter         | Date          | Slides             | Code |
 | ----------------- | -------------:| --------------:    |  --------------:    |
