@@ -2,7 +2,9 @@
 
 This repository contains the material for the PyTorch course develop by the BIVL²ab students. The content of this course is especially aimed at learning how to train neural networks on data sets that include images.
 
-[# Schedulle ](https://docs.google.com/spreadsheets/d/1T20PXnackPsGt2ZMsfC17sJHsTqLHumyPPd-57NTKJU/edit#gid=1262851227/)
+# Schedule
+
+Here you can find a link to the [course schedule](https://docs.google.com/spreadsheets/d/1T20PXnackPsGt2ZMsfC17sJHsTqLHumyPPd-57NTKJU/edit#gid=1262851227/)
 
 | Presenter         | Date          | Slides             | Code |
 | ----------------- | -------------:| --------------:    |  --------------:    |
@@ -11,3 +13,4 @@ This repository contains the material for the PyTorch course develop by the BIVL
 | Juan A. Olmos  | 27-09-2022    | [TensorBoard](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/03-tensorBoard.pdf)  | |
 | Franklin Sierra  | -   | - | |
 | Jonathann - Juan A. Olmos  | 1-11-2022    | Training a CNN and Early Stoppin (No slides) | [code](https://github.com/Sangohe/bivl2ab-pytorch/blob/main/slides/05-trainCNN-early-stopping.ipynb)    |
+| Santiago Gómez  | 8-11-2022    | [Experiment reproduction](slides/06-experiment_reproduction.pdf) | [code](06-experiment_reproduction.ipynb)    |
