@@ -2,3 +2,4 @@ datasets/
 runs*/
 dataset/
 .ipynb_checkpoints/*.ipynb
+events*
